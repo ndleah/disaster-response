@@ -46,11 +46,6 @@
 |- train_classifier.py
 |- classifier.pkl  # saved model 
 
-- notebook
-|- categories.csv
-|- messages.csv
-|- ETL Pipeline Preparation.ipynb
-|- ML Pipeline Preparation.ipynb
 - README.md
 ```
 
